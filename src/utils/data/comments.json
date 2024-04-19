@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1, "text": "This is a comment", "postId": 1
+  },
+  {
+    "id": 2, "text": "This is another comment", "postId": 2
+  },
+  {
+    "id": 3, "text": "This is a third comment", "postId": 1
+  }
+]
